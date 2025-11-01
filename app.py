@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1dfIJj5apETLvW0XWQtV36aiaHLohQwz6
 """
 
-!pip install streamlit
+#!pip install streamlit
 
-!pip install pulp
+#!pip install pulp
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile solver.py
