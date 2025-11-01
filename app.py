@@ -13,7 +13,7 @@ Original file is located at
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile solver.py
-# import pulp
+import pulp
 # 
 # def build_and_solve(num_employees, D, T, C_it, W_dt, P_idt, maxShift_i):
 #     # Model
