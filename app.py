@@ -68,7 +68,7 @@ Original file is located at
 import streamlit as st
 import pandas as pd
 import numpy as np
-from solver import build_and_solve
+from M2T1P8 import build_and_solve
 from io import StringIO
 
 st.set_page_config(page_title="Scheduler", layout="wide", initial_sidebar_state="expanded")
